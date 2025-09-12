@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681804476 source:e:\officework\计算方法\class1.c
+
+1682582682 source:e:\officework\计算方法\main.cpp
+	<stdio.h>
+	<math.h>
+
+1681821185 source:e:\officework\计算方法\class1.cpp
+	<stdio.h>
+	<math.h>
+
+1681980472 source:e:\officework\计算方法\class2.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
