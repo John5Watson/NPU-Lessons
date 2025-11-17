@@ -17,4 +17,5 @@ C = A * B
 D = C[end-1:end, end-2:end]
 
 println("D=")
+
 display(D)
